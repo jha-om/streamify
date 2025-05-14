@@ -1,6 +1,10 @@
 <h1 align="center">Fullstack Chat & Video Calling App</h1>
 
 ![Demo App](/frontend/public/chat.png)
+---
+## Architecture flow
+![architecture_flow](https://github.com/user-attachments/assets/fdc9d744-47d4-4254-85b5-223d6467f7e5)
+(ui/diagrams) => https://app.eraser.io/workspace/kiTRUaytr8fJjmfPj3PQ
 
 (pending) => friends page and route...
 
